@@ -1,5 +1,15 @@
 # scala-lang.org
 
+# TODO - Yifan:
+0. Creating independent resources website: refer to issue https://github.com/scala/scala-lang/issues/614
+
+1. Gather resources for learning scala from people
+
+2. Add giter8 templates somewhere
+
+
+
+
 This repository contains the source for [scala-lang.org](http://scala-lang.org).
 
 It does not contain the source for the [docs.scala-lang.org](http://docs.scala-lang.org) subdomain. You can visit the [docs.scala-lang repository](https://github.com/scala/docs.scala-lang) if you are interested in contributing to the Scala documentation site.
